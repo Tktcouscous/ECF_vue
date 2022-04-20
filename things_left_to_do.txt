@@ -1,0 +1,5 @@
+-> Add 3 last cards on the homepage
+    => let tailleCollection = length(cards)
+    => plug "cards[tailleCollection].name" /  "cards[tailleCollection].imageUrl" / "cards[tailleCollection].text"
+
+-> Add js function in the header component to update the current_page_item class
